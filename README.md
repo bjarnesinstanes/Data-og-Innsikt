@@ -1,5 +1,5 @@
 # Data-og-Innsikt
-> A practical knowledge base for modern data platforms, analytics architecture, data products, and business intelligence.
+> A practical knowledge base I set up for myself to get an overview of modern data platforms, analytics architecture, data products, and business intelligence.
 
 This repository documents concepts, architectural patterns, technology comparisons, and practical lessons learned when building scalable data and analytics solutions.
 
